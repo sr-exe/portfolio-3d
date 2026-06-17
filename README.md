@@ -16,9 +16,6 @@ Built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **React
 
 > Add a screenshot named `preview.png` in the root folder and uncomment the line below.
 
-```md
-![Portfolio Preview](./preview.png)
-```
 
 ---
 
