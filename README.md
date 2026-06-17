@@ -122,7 +122,7 @@ npm run preview
 
 ## 👨‍💻 About Me
 
-I'm **Shubham Rathod**, a Full Stack Developer focused on building modern web applications with exceptional user experiences.
+I'm **Shubham Rathod**, a Full Stack Developer (learning) focused on building modern web applications with exceptional user experiences.
 
 ### Core Skills
 
@@ -161,6 +161,6 @@ If you like this project, consider giving it a star on GitHub.
 
 <div align="center">
 
-Made with ❤️ by Shubham Rathod
+Made Shubham Rathod
 
 </div>
