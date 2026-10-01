@@ -6,7 +6,7 @@
 
 Built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **React Three Fiber**
 
-🌐 **Live Demo:** https://portfolio-3d-orcin.vercel.app/
+🌐 **Live Demo:** https://shubham-rathod-144.vercel.app/
 
 </div>
 
