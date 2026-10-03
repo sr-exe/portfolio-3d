@@ -135,7 +135,7 @@ I'm **Shubham Rathod**, a Full Stack Developer (learning) focused on building mo
 
 ## 📬 Contact
 
-📧 Email: [MY EMAIL](shubhamrathod4040@gmail.com)
+📧 Email: shubhamrathod4040@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/shubham-rathod-/
 
