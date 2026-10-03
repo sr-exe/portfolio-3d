@@ -6,7 +6,7 @@
 
 Brutalist, 3D, honest portfolio. Real projects, real learning, no inflated claims.
 
-[**Live site**](https://shubham-rathod-144.vercel.app/) · [GitHub](https://github.com/sr-exe) · [LinkedIn](https://www.linkedin.com/in/shubham-rathod-/) · [Email](mailto:shubhamrathod4040@gmail.com)
+[**Live site**]() · [GitHub](https://github.com/sr-exe) · [LinkedIn](https://www.linkedin.com/in/shubham-rathod-/) · [Email](mailto:shubhamrathod4040@gmail.com)
 
 </div>
 
